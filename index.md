@@ -6,7 +6,11 @@ test webphone with domain name <a href="sip:0081@pg75.cc.naumen.ru">0081</a>
 
 test from pms <a href="sip:8989@;pms-project=corebo00000000000mqpt9aoak4m07h4;npcp-call-type=preview;npcp-number-type=MOBILE;case_uuid=ocpcas00000000000naqcbqoqk452690;npcp-caller=outcall" target="_self" title="звонить: 8989" class="tel"><span></span><span>8989</span></a>
 
-<!-- webim button generation date: 2020-11-03 version: 9.1.73 -->
+
+
+
+
+
 <a class="webim_button" href="#" rel="webim"><img src="https://naumenru001.webim.ru/button.php?location=test_stand_ora76" border="0"/></a>
 <script type="text/javascript">
 
@@ -22,4 +26,4 @@ test from pms <a href="sip:8989@;pms-project=corebo00000000000mqpt9aoak4m07h4;np
       document.getElementsByTagName("head")[0].appendChild(s);
   })();
 </script>
-<!-- /webim button -->
+
