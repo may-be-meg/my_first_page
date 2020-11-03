@@ -27,3 +27,20 @@ test from pms <a href="sip:8989@;pms-project=corebo00000000000mqpt9aoak4m07h4;np
   })();
 </script>
 
+<!-- webim button generation date: 2020-11-03 version: 9.1.73 -->
+<a class="webim_button" href="#" rel="webim"><img src="https://naumenru001.webim.ru/button.php?location=test_stand_pg75" border="0"/></a>
+<script type="text/javascript">
+
+  webim = {
+    accountName: "naumenru001",
+    domain: "naumenru001.webim.ru",
+    location: "test_stand_pg75"
+  };
+  (function () {
+      var s = document.createElement("script");
+      s.type = "text/javascript";
+      s.src = "https://naumenru001.webim.ru/js/button.js";
+      document.getElementsByTagName("head")[0].appendChild(s);
+  })();
+</script>
+<!-- /webim button -->
